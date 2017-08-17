@@ -1,11 +1,5 @@
 <?php
-include "db.php";
-include("simple_html_dom.php");
-
-//$select_admin="select * from adminsetting4";
-//$rs=mysql_query($select_admin) or die ("Cannot Execute Query".mysql_error());
-//$row=mysql_fetch_assoc($rs);
-//$price =explode("-",str_replace('$','',$row['price']));
+ice =explode("-",str_replace('$','',$row['price']));
 //$location=$row['location'];
 //$mail=$row['email'];
 //$car_model=$row['model'];
